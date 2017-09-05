@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Release"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="dbdec.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <CursorPos X="10" Y="10"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="dbdec.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="dbdec1"/>
+        <UsageCount Value="20"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="dbdec1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="12"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="dbdec.lpr"/>
+        <Caret Line="7" Column="42"/>
+      </Position1>
+      <Position2>
+        <Filename Value="dbdec.lpr"/>
+        <Caret Line="10" Column="15"/>
+      </Position2>
+      <Position3>
+        <Filename Value="dbdec.lpr"/>
+        <Caret Line="19" Column="34" TopLine="6"/>
+      </Position3>
+      <Position4>
+        <Filename Value="dbdec.lpr"/>
+        <Caret Line="10" Column="10" TopLine="2"/>
+      </Position4>
+      <Position5>
+        <Filename Value="dbdec.lpr"/>
+        <Caret Line="19" Column="34" TopLine="6"/>
+      </Position5>
+      <Position6>
+        <Filename Value="dbdec.lpr"/>
+        <Caret Line="10" Column="10" TopLine="2"/>
+      </Position6>
+      <Position7>
+        <Filename Value="dbdec.lpr"/>
+        <Caret Line="19" Column="34" TopLine="6"/>
+      </Position7>
+      <Position8>
+        <Filename Value="dbdec.lpr"/>
+        <Caret Line="10" Column="10" TopLine="2"/>
+      </Position8>
+      <Position9>
+        <Filename Value="dbdec.lpr"/>
+        <Caret Line="19" Column="34" TopLine="6"/>
+      </Position9>
+      <Position10>
+        <Filename Value="dbdec.lpr"/>
+        <Caret Line="10" Column="10"/>
+      </Position10>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
