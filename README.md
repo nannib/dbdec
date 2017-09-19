@@ -11,6 +11,6 @@ Python - https://www.python.org/downloads/windows/
 
 It includes:
 Python programs
-SQLLite Browser - https://github.com/sqlitebrowser/sqlitebrowser/
+SQLite Browser - https://github.com/sqlitebrowser/sqlitebrowser/
 DBCrack.exe - Executable for Windows (GUI)
 
